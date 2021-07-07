@@ -24,7 +24,6 @@ Feel free to browse my work and my portfolio. If you have any questions, reach o
 
 <br>
 <img src='https://img.shields.io/twitter/follow/Coach_TBrown20?style=social' />
-<br>
 <img src='https://img.shields.io/twitch/status/bergannation?style=social' />
 <h4 align="center">
     <img src='https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white' />
