@@ -14,6 +14,7 @@ Feel free to browse my work and my portfolio. If you have any questions, reach o
 - :dog: Maple is my furry friend (Mini-Golden Doodle)
 - :football: Former D-I College Football Coach-ACU
 - 🔭 I’m currently learning: Javascript, React, MongoDB, Handlebars
+- 🎮 I'm a Xbox Video Gaming Nerd (Madden/COD/NBA2k/RDR2)
 - :iphone: 402-321-2591
 - 💬 [Email Me for any questions!](mailto:bergannation@gmail.com)
 
