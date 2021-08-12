@@ -20,7 +20,7 @@ Feel free to browse my work and my portfolio. If you have any questions, reach o
 
 ## 💾 Links:
 
-- [Current Portfolio](https://bergannation.github.io/02_portfoliohmwrk/)
+- [Current Portfolio](https://bergannation.github.io/20_ReactPortfolio/)
 - [LinkedIn](https://www.linkedin.com/in/travis-brown-97478a154/)
 
 <br>
